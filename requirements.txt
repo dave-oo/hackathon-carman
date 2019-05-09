@@ -1,2 +1,5 @@
 Django
 django-rest-framework
+djangorestframework-jwt
+django-allauth
+django-rest-auth[with_social]

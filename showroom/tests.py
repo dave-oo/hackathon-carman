@@ -66,7 +66,6 @@ class CarTest(TestCase):
     def test_partial_update(self):
         """
         Test that updates only update the color and availability
-        :return:
         """
         Car.objects.create(
             car_make='Test Make',
